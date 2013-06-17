@@ -1,0 +1,12 @@
+
+# デバッグ用ログとか
+*.log
+
+# 設定ファイル
+/nbproject/private
+/lib/twitter_timelime_json_archive
+/lib/consumer_key.yml
+/lib/token.yml
+
+# 資料とか
+/archive
